@@ -1,4 +1,5 @@
 // Calculate the sum of numbers in an array of numbers.
+
 // array=[10,22,322,452,766]
 
 function printNum() {
