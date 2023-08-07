@@ -6,8 +6,9 @@ function sumNumbers() {
   for (let i = 1; i <= 10; i++) {
     sum += i;
     // num.push(sum);
+    var test='0'
   }
-  
+
   return sum;
 }
 
