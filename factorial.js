@@ -1,14 +1,12 @@
 //  Calculate 10! ( search for factorial.)
 
-function sumNumbers() {
-  //   var num = [];
+function numfactorial(factorialOf) {
   var sum = 1;
-  for (let i = 1; i <= 10; i++) {
+  for (let i = 1; i <= factorialOf; i++) {
     sum *= i;
-    // num.push(sum);
   }
   return sum;
 }
 
-const result = sumNumbers();
+const result = numfactorial(10);
 console.log(result);
