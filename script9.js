@@ -1,5 +1,4 @@
-// Create a function that will convert from Fahrenheit to Celsius
-
+// Calculate the sum of numbers in an array of numbers.
 // array=[10,22,322,452,766]
 
 function printNum() {
