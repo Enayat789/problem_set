@@ -7,6 +7,7 @@ function sumNumbers() {
     sum += i;
     // num.push(sum);
   }
+  
   return sum;
 }
 
